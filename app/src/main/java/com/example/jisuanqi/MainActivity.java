@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bt_ok=findViewById(R.id.bt_ok);
         et_number=findViewById(R.id.et);
         result=findViewById(R.id.result);
+        System.out.println("123");
         gc=findViewById(R.id.gc);
         System.out.println("123");
         bt_jia.setOnClickListener(this);
