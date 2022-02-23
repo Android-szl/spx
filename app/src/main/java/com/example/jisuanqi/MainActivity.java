@@ -41,6 +41,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bt_del.setOnClickListener(this);
 
         System.out.println("杨昱中 yyds");
+
+        System.out.println("123");
+        System.out.println("王亚龙 yyds");
     }
 
     @Override
